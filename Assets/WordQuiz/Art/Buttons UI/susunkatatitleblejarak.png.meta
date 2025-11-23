@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: fcac643318196934eb300a23de38fe2f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 962982816914668727
+    second: susunkatatitleblejarak_0
+  - first:
+      213: -4388988101401341468
+    second: susunkatatitleblejarak_1
+  - first:
+      213: -8014443188725641714
+    second: susunkatatitleblejarak_2
+  - first:
+      213: -2816568490764843810
+    second: susunkatatitleblejarak_3
+  - first:
+      213: -3098282268747106633
+    second: susunkatatitleblejarak_4
+  - first:
+      213: -4472453033950211920
+    second: susunkatatitleblejarak_5
+  - first:
+      213: -7389198782441922032
+    second: susunkatatitleblejarak_6
+  - first:
+      213: 3710497422698077946
+    second: susunkatatitleblejarak_7
+  - first:
+      213: 364145335602482210
+    second: susunkatatitleblejarak_8
+  - first:
+      213: 6092007273270609461
+    second: susunkatatitleblejarak_9
+  - first:
+      213: 6775769356438713992
+    second: susunkatatitleblejarak_10
+  - first:
+      213: 7454384694184462583
+    second: susunkatatitleblejarak_11
+  - first:
+      213: -416819934186009551
+    second: susunkatatitleblejarak_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: susunkatatitleblejarak_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 565
+        width: 427
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcf00715c33d5d00800000000000000
+      internalID: 962982816914668727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susunkatatitleblejarak_1
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 583
+        width: 431
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e19e8c539e2713c0800000000000000
+      internalID: -4388988101401341468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susunkatatitleblejarak_2
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 598
+        width: 366
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e8577d16af6c090800000000000000
+      internalID: -8014443188725641714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susunkatatitleblejarak_3
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 583
+        width: 431
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4476661e989e8d0800000000000000
+      internalID: -2816568490764843810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susunkatatitleblejarak_4
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 596
+        width: 452
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6ff6521b0b005d0800000000000000
+      internalID: -3098282268747106633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susunkatatitleblejarak_5
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 719
+        width: 224
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b097c469a7aee1c0800000000000000
+      internalID: -4472453033950211920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susunkatatitleblejarak_6
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 45
+        width: 412
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012ecc56bda447990800000000000000
+      internalID: -7389198782441922032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susunkatatitleblejarak_7
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 350
+        width: 128
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afedbe33fb55e7330800000000000000
+      internalID: 3710497422698077946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susunkatatitleblejarak_8
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 55
+        width: 506
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c833fd044bd0500800000000000000
+      internalID: 364145335602482210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susunkatatitleblejarak_9
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 58
+        width: 506
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536046496582b8450800000000000000
+      internalID: 6092007273270609461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susunkatatitleblejarak_10
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 64
+        width: 464
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886b182845e580e50800000000000000
+      internalID: 6775769356438713992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susunkatatitleblejarak_11
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 70
+        width: 478
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f849f3626b437760800000000000000
+      internalID: 7454384694184462583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: susunkatatitleblejarak_12
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 53
+        width: 122
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c8a8f6a78273af0800000000000000
+      internalID: -416819934186009551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      susunkatatitleblejarak_0: 962982816914668727
+      susunkatatitleblejarak_1: -4388988101401341468
+      susunkatatitleblejarak_10: 6775769356438713992
+      susunkatatitleblejarak_11: 7454384694184462583
+      susunkatatitleblejarak_12: -416819934186009551
+      susunkatatitleblejarak_2: -8014443188725641714
+      susunkatatitleblejarak_3: -2816568490764843810
+      susunkatatitleblejarak_4: -3098282268747106633
+      susunkatatitleblejarak_5: -4472453033950211920
+      susunkatatitleblejarak_6: -7389198782441922032
+      susunkatatitleblejarak_7: 3710497422698077946
+      susunkatatitleblejarak_8: 364145335602482210
+      susunkatatitleblejarak_9: 6092007273270609461
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/WordQuiz/Scenes/Slide 1 Scenes/MainMenu.unity
+    guid: 8ecb685afb1208b47826b9ea37d20229
+  - enabled: 1
+    path: Assets/WordQuiz/Scenes/Slide 1 Scenes/MenuGame.unity
+    guid: c966ae97aed0c5a4292f0afa3ab3712c
+  - enabled: 1
+    path: Assets/WordQuiz/Scenes/Slide 2 Scenes/MenuGame 2.unity
+    guid: e4601ffa036093941a7b7303e0626f35
+  - enabled: 1
+    path: Assets/WordQuiz/Scenes/Slide 1 Scenes/SampleScene.unity
+    guid: 5f3010a3193a2024195d1194c43f08f5
+  - enabled: 1
+    path: Assets/WordQuiz/Scenes/Slide 1 Scenes/HewanSedang.unity
+    guid: 69015cb9f72f415478430877cdd28cee
+  - enabled: 1
+    path: Assets/WordQuiz/Scenes/Slide 1 Scenes/HewanSulit.unity
+    guid: 6547c6925e5095247b579e26cb9e30b2
+  - enabled: 1
+    path: Assets/WordQuiz/Scenes/Slide 1 Scenes/Buah.unity
+    guid: a43eec4f3500e5f498e767179b615459
+  - enabled: 1
+    path: Assets/WordQuiz/Scenes/Slide 1 Scenes/BuahSedang.unity
+    guid: 82eb790a290f7cc47901ca8c34451bf0
+  - enabled: 1
+    path: Assets/WordQuiz/Scenes/Slide 1 Scenes/BuahSulit.unity
+    guid: 25e541020f31b68459be20b47ac3655f
+  - enabled: 1
+    path: Assets/WordQuiz/Scenes/Slide 1 Scenes/Bendera.unity
+    guid: c742aac89c39a5741b3309ad2fdfedae
+  - enabled: 1
+    path: Assets/WordQuiz/Scenes/Slide 1 Scenes/Benda.unity
+    guid: 1ac23572c1dd42941b809f5fb709e5d7
+  - enabled: 1
+    path: Assets/WordQuiz/Scenes/Slide 1 Scenes/BendaSedang.unity
+    guid: ece95f9e7508b3f42b135ca46a1a82d7
+  - enabled: 1
+    path: Assets/WordQuiz/Scenes/Slide 1 Scenes/FlipCard.unity
+    guid: ad15e46eca582a14dafbe6d2aaef3f2c
+  - enabled: 1
+    path: Assets/WordQuiz/Scenes/Slide 1 Scenes/FlipCardHewan2.unity
+    guid: 5a1de4080bcc16a4f85ffe8839734d82
+  - enabled: 1
+    path: Assets/WordQuiz/Scenes/Slide 1 Scenes/FlipCardHewan3.unity
+    guid: e3bb91c6454f6c14c81fe44c34d8f57a
+  - enabled: 1
+    path: Assets/WordQuiz/Scenes/Slide 1 Scenes/FlipCardHewan4.unity
+    guid: 1570262da387dd34c96442838ebdcc94
+  - enabled: 1
+    path: Assets/WordQuiz/Scenes/Slide 2 Scenes/ColorScene.unity
+    guid: aedc42306fe604f479d9820f432bf688
+  - enabled: 1
+    path: Assets/WordQuiz/Scenes/Slide 2 Scenes/ProfesiScene.unity
+    guid: f181b203e5403a242a40c0f66d84da12
+  - enabled: 1
+    path: Assets/WordQuiz/Scenes/Slide 2 Scenes/FoodScene.unity
+    guid: 2200257a286f0d343aacc21c61f94577
+  - enabled: 1
+    path: Assets/WordQuiz/Scenes/Slide 2 Scenes/KendaraanScene.unity
+    guid: 02014f48a52ae8c4386c429eb77c440c
+  - enabled: 1
+    path: Assets/WordQuiz/Scenes/Slide 2 Scenes/FlipCardScene2.unity
+    guid: 737842d5fed6a404cb38c594e9e49204
+  - enabled: 1
+    path: Assets/WordQuiz/Scenes/Slide 2 Scenes/FlipCard2Scene2.unity
+    guid: 91b8df23aa275d642a92da9ce063b482
+  - enabled: 1
+    path: Assets/WordQuiz/Scenes/Slide 2 Scenes/FlipCard3Scene2.unity
+    guid: 74eb3d9cb77771943a89d5b2d2637c6d
+  - enabled: 1
+    path: Assets/WordQuiz/Scenes/Slide 2 Scenes/FlipCard4Scene2.unity
+    guid: d2842c0fa5e984d47ba7f7265c81f76b
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b762a7796d94449896cd40528add32, type: 3}
+  m_Name: FoodData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 21300000, guid: d667155719f28cb42b72c8018d1248f3, type: 3}
+    answer: nuget
+  - questionImage: {fileID: 21300000, guid: ad378b6f374de1548a8fce8e96284971, type: 3}
+    answer: sosis
+  - questionImage: {fileID: -3097374132949576514, guid: 1658033dd73d22d40840f192c8e2833d,
+      type: 3}
+    answer: pempek
+  - questionImage: {fileID: -4448939795832143253, guid: 802bc6be45a209a43867851c60366242,
+      type: 3}
+    answer: rendang

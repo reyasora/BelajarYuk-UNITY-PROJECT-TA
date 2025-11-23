@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b762a7796d94449896cd40528add32, type: 3}
+  m_Name: BendaData 1
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 3714063028039450859, guid: 1546afc377269cc4fa815b154d449738,
+      type: 3}
+    answer: laptop
+  - questionImage: {fileID: 916679770286742805, guid: 4371fae29ab1f27408ac2448e52fa1da,
+      type: 3}
+    answer: payung
+  - questionImage: {fileID: -3547246511401600963, guid: ab96de52721702c468851ed10b547411,
+      type: 3}
+    answer: cangkir
+  - questionImage: {fileID: -3805747526575759118, guid: e5b88487c7fe1f44383ec8dfcc398bfb,
+      type: 3}
+    answer: lemari

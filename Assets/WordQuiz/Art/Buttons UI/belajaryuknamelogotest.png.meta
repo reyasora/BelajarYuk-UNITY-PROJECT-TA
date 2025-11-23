@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 38cc9d6e9d8a3294d8dd3bb77708c228
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3795529233395923824
+    second: belajaryuknamelogotest_0
+  - first:
+      213: 6839592425942642217
+    second: belajaryuknamelogotest_1
+  - first:
+      213: -2489961726007975537
+    second: belajaryuknamelogotest_2
+  - first:
+      213: -235707935251334121
+    second: belajaryuknamelogotest_3
+  - first:
+      213: -6730264322721877244
+    second: belajaryuknamelogotest_4
+  - first:
+      213: 1563091545249352419
+    second: belajaryuknamelogotest_5
+  - first:
+      213: 8081601308332664420
+    second: belajaryuknamelogotest_6
+  - first:
+      213: -8333427620683727354
+    second: belajaryuknamelogotest_7
+  - first:
+      213: 7927240132755663013
+    second: belajaryuknamelogotest_8
+  - first:
+      213: 9006869760710895129
+    second: belajaryuknamelogotest_9
+  - first:
+      213: -8578034250093541858
+    second: belajaryuknamelogotest_10
+  - first:
+      213: -7744874725334802283
+    second: belajaryuknamelogotest_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: belajaryuknamelogotest_0
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1190
+        width: 471
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bbc2b6abd6ca430800000000000000
+      internalID: 3795529233395923824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: belajaryuknamelogotest_1
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1178
+        width: 780
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e63ccd21d1bee50800000000000000
+      internalID: 6839592425942642217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: belajaryuknamelogotest_2
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1192
+        width: 506
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81e9f8a001e17dd0800000000000000
+      internalID: -2489961726007975537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: belajaryuknamelogotest_3
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 1173
+        width: 394
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c7a98b1e89abcf0800000000000000
+      internalID: -235707935251334121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: belajaryuknamelogotest_4
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 1193
+        width: 478
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4037da7c14c4992a0800000000000000
+      internalID: -6730264322721877244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: belajaryuknamelogotest_5
+      rect:
+        serializedVersion: 2
+        x: 2828
+        y: 1201
+        width: 402
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea01029a7731b510800000000000000
+      internalID: 1563091545249352419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: belajaryuknamelogotest_6
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 513
+        width: 452
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466208f529d972070800000000000000
+      internalID: 8081601308332664420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: belajaryuknamelogotest_7
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 474
+        width: 483
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60eb7bb3bb7b95c80800000000000000
+      internalID: -8333427620683727354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: belajaryuknamelogotest_8
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 428
+        width: 506
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a82f1286e6330e60800000000000000
+      internalID: 7927240132755663013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: belajaryuknamelogotest_9
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 254
+        width: 895
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9166161b354defc70800000000000000
+      internalID: 9006869760710895129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: belajaryuknamelogotest_10
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 887
+        width: 172
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e164a044c43b4f880800000000000000
+      internalID: -8578034250093541858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: belajaryuknamelogotest_11
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 466
+        width: 172
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590a48ea87da48490800000000000000
+      internalID: -7744874725334802283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      belajaryuknamelogotest_0: 3795529233395923824
+      belajaryuknamelogotest_1: 6839592425942642217
+      belajaryuknamelogotest_10: -8578034250093541858
+      belajaryuknamelogotest_11: -7744874725334802283
+      belajaryuknamelogotest_2: -2489961726007975537
+      belajaryuknamelogotest_3: -235707935251334121
+      belajaryuknamelogotest_4: -6730264322721877244
+      belajaryuknamelogotest_5: 1563091545249352419
+      belajaryuknamelogotest_6: 8081601308332664420
+      belajaryuknamelogotest_7: -8333427620683727354
+      belajaryuknamelogotest_8: 7927240132755663013
+      belajaryuknamelogotest_9: 9006869760710895129
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

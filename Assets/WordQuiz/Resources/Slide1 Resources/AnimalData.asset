@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b762a7796d94449896cd40528add32, type: 3}
+  m_Name: AnimalData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: -8774616650606400148, guid: 76c91fb83c3380d46a0fc818471f7b08,
+      type: 3}
+    answer: ikan
+  - questionImage: {fileID: 1582150025975200489, guid: 8ee4ffa0be30ab3478a1e6738698ca85,
+      type: 3}
+    answer: babi
+  - questionImage: {fileID: 6657119802873105171, guid: 223cda373d6b2ec4089f613d7cd584a3,
+      type: 3}
+    answer: ayam
+  - questionImage: {fileID: -4939486717976560284, guid: 3f655c587a282b6488b9b1c7ed2cf2a4,
+      type: 3}
+    answer: kuda

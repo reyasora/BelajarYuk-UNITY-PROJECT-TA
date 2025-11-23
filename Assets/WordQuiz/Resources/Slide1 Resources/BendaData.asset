@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b762a7796d94449896cd40528add32, type: 3}
+  m_Name: BendaData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: -7127955305852703745, guid: 5066aeef303e7d94187489479e407ed9,
+      type: 3}
+    answer: bola
+  - questionImage: {fileID: 7918520486737186856, guid: 3f511c17ee391594e8589261157d7f08,
+      type: 3}
+    answer: kunci
+  - questionImage: {fileID: -1703329788277266402, guid: c3c2503bf28fead4da68356ab66925d5,
+      type: 3}
+    answer: lampu
+  - questionImage: {fileID: -5158623296950483813, guid: b45b968a260be8e4fa0ca45e2ac03e5e,
+      type: 3}
+    answer: buku

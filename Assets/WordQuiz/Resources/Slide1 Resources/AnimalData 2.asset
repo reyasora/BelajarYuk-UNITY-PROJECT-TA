@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b762a7796d94449896cd40528add32, type: 3}
+  m_Name: AnimalData 2
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 3218016810014130679, guid: 94bee85062001734b800093c9ac4a22d,
+      type: 3}
+    answer: jerapah
+  - questionImage: {fileID: 8942238136635424916, guid: 504499f097528a44da2b81e8d0bb6e2a,
+      type: 3}
+    answer: kelinci
+  - questionImage: {fileID: -4583012771258102309, guid: cf8c0a8e244d61c4590aa88e772f6fd8,
+      type: 3}
+    answer: kanguru

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b762a7796d94449896cd40528add32, type: 3}
+  m_Name: ColorsData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: -2906687992819201078, guid: d50594d15162d5d4fa9955b036c76c0d,
+      type: 3}
+    answer: merah
+  - questionImage: {fileID: 8321279725558258737, guid: 8acfa72fdfccfff459edbf707a56a505,
+      type: 3}
+    answer: ungu
+  - questionImage: {fileID: 4515852780169157979, guid: b76d472659d7f2446acaa1a1f317ebc4,
+      type: 3}
+    answer: biru
+  - questionImage: {fileID: 4434868365439205483, guid: ae43b05dcf444b34fa82a0294b685e48,
+      type: 3}
+    answer: hijau

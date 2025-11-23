@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b762a7796d94449896cd40528add32, type: 3}
+  m_Name: FruitsData 1
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: -2950328351869950836, guid: bd43ab5f39567274f83bff744f7de370,
+      type: 3}
+    answer: mangga
+  - questionImage: {fileID: 6863477883734176704, guid: 382774aec02ac4d43a685885fbefba0a,
+      type: 3}
+    answer: pepaya
+  - questionImage: {fileID: -3921184752694568858, guid: 959e58c9e6d71564b921a544fb776539,
+      type: 3}
+    answer: durian
+  - questionImage: {fileID: -1056793551015413280, guid: d478a7a128e0be74c96578ad7191396a,
+      type: 3}
+    answer: alpukat
